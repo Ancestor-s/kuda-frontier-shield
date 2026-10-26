@@ -12,4 +12,18 @@ Firewalls only check the gate. Once malware is inside via email, USB, or browser
 4. Endpoint Auto-Response- Kill and quarantine
 ### Tech Stack
 FastAPI, Python, Meta Muse SPark/ Glimmer, Baseten, WireGuard
+
+### Meta Compliance -100% Meta AI Only.
+Built per hackathon rules:
+• Muse Spark series via Meta Model API: 0-100 threat scoring brain
+• Muse Wonder via Meta Model API: Generates fake bank portal + extracts attacker intel
+• Muse Image / Voice / Transcribe via Meta Model API: Scans image attachments & voice phishing
+• SAM 3.1 via Meta Model API: Detects malicious QR codes & visual spoofing
+• Muse Glimmer (open weights) : On-prem file scanning, offline
+• Muse Spark Open (open weights) : Auto-generates fix code for SQLi/XSS
+• Muse Code: Used to generate all sensors and vault 10x faster
+
+No OpenAI, no other models.
+
 ### Ancestor-s -Meta Frontier AI Hackathon
+
